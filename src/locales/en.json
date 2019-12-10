@@ -1,0 +1,20 @@
+{
+  "home": {
+    "label": "Liters",
+    "dayleConsumption": "Dayle Consumption",
+    "totalDayleConsumption": "Total",
+    "consumptionPerHour": "Consumption Per Hour",
+    "annualConsumption": "Annual Consumption",
+    "totalAnnualConsumption": "Total",
+    "consumptionPerMonth": "Consumption Per Month"
+  },
+  "notFound": {
+    "title": "404 Page Not Found",
+    "description": "Oops! It looks like this page does not exist.",
+    "backToHome": "Back to Home"
+  },
+  "navBar": {
+    "title": "Digital Hydrometer",
+    "home": "Home"
+  }
+}

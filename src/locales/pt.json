@@ -1,0 +1,19 @@
+{
+  "home": {
+    "dayleConsumption": "Consumo Diário",
+    "totalDayleConsumption": "Total",
+    "consumptionPerHour": "Consumo por Hora",
+    "annualConsumption": "Consumo Anual",
+    "totalAnnualConsumption": "Total",
+    "consumptionPerMonth": "Consumo por Mês"
+  },
+  "notFound": {
+    "title": "404 Página Não Encontrada",
+    "description": "Oops! Parece que essa página não existe.",
+    "backToHome": "Voltar ao Início"
+  },
+  "navBar": {
+    "title": "Hidrômetro Digital",
+    "home": "Início"
+  }
+}
